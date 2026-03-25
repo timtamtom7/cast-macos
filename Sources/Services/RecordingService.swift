@@ -24,7 +24,7 @@ struct RecordingSettings: Codable {
         case mov = "MOV"
         case mkv = "MKV"
 
-        var extension: String { rawValue.lowercased() }
+        var fileExtension: String { rawValue.lowercased() }
 
         var codec: String {
             switch self {

@@ -1,4 +1,5 @@
 import Foundation
+import AppKit
 
 enum MediaSource: Identifiable, Codable {
     case screen
@@ -53,7 +54,7 @@ final class MediaSourceService: ObservableObject {
 
         for app in runningApps {
             let source = MediaSourceInfo(
-                id: app.processIdentifier,
+                id: UUID(uuidString: String(app.processIdentifier)) ?? UUID(),
                 name: app.localizedName ?? "Unknown",
                 type: .application,
                 isActive: app.isActive

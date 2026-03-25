@@ -7,19 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02162763FCDEEC88D1EE863D /* StreamingQualityService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C5C0A6F4487597E007C598 /* StreamingQualityService.swift */; };
 		097BD7DA76248BF9B2019784 /* QualitySettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */; };
 		26AAE986908B16FF391AD74E /* MenuBarPopoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E4B76C7341D245CCF64B4A /* MenuBarPopoverView.swift */; };
 		2956433FD9F91A0B30077AC2 /* CustomOverlayService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */; };
 		3ADA62B60EF0C492F9C3EF01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F65FAE149D829154A41225B6 /* Assets.xcassets */; };
+		50008D0747B0BBC53DAC720E /* RecordingStorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5317D53DE63022EAB31996CE /* RecordingStorageService.swift */; };
 		512BE3182CB4E3FA23B8C523 /* DeviceScanService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */; };
+		513906F6044911E1AE141109 /* CastIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F6FCE7F4AE923203E8ACB73 /* CastIntents.swift */; };
 		5EFFE9987CBB2D4ACCA351A3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D46EB88D693DFF13986B95 /* main.swift */; };
+		6F27C4C2AE6389CE144DE5BC /* StreamService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5187C90212132F96611DECF0 /* StreamService.swift */; };
 		6FC9EF3C40B3EA1F4BE00A3C /* MirrorSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */; };
 		761C80647B61431E2240B33D /* CastService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4AD0F2C453D4AA560487DB5 /* CastService.swift */; };
 		7C0F37D655EA58617C7E7355 /* CastAppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FA36FA300161142F909224E /* CastAppState.swift */; };
 		8EF662176591B3A1D8EEF48A /* QualitySettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */; };
+		9A939951F4EC5E21C73E3D77 /* RecordingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82394E5EC59E52BBD3219F1 /* RecordingService.swift */; };
+		A5F6433579AA21E239FEE481 /* StreamSettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5855EC1D90B0A34BB7279CF5 /* StreamSettingsService.swift */; };
 		A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B7BB8189DCC3707D412665 /* CastDevice.swift */; };
+		B901E408068CE8789A4D1B43 /* StreamSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67807A9772F9BE5473353B84 /* StreamSettingsView.swift */; };
+		C5AAF270F9D3A471866E8B2C /* LiveReactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901C1C5BA5BBC342FCBE7F1D /* LiveReactionsView.swift */; };
+		C5CCD36FBBA92C3668611887 /* RecordingSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714C037A447537C9664584E0 /* RecordingSettingsView.swift */; };
 		C863943EDFF14022A27BB789 /* MenuBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E69A2798033DEBA444DFA46 /* MenuBarController.swift */; };
 		CFDD1BC3F421784C9F05085D /* ScreenCaptureService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */; };
+		D508FFBA956F8D4B5AE8552A /* LiveReactionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DAFB9D75131A5B76E58769 /* LiveReactionService.swift */; };
+		D5883C811E582B00DA28EAE3 /* StreamInfoSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5525E1F09E6051007CD2C095 /* StreamInfoSheet.swift */; };
+		DF8E9CED92C5577BEAB4C81A /* RecordingHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1ACD4274F88F17E2359BAD5 /* RecordingHistoryView.swift */; };
+		E089DAA77D79F37D35DAEAA4 /* MediaSourceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BF9AF6840C28CF49706D72 /* MediaSourceService.swift */; };
 		E0B443C7E6B161232BF227F6 /* CustomOverlayEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */; };
 		E1B3627B916AE6C77D56ED2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6F0FC5312D9E9382282335 /* AppDelegate.swift */; };
 		E5553CDA9DBFD13E5C7F83CC /* DeviceScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EC83F841F513C269B2222B /* DeviceScanView.swift */; };
@@ -30,17 +43,30 @@
 		37D46EB88D693DFF13986B95 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceScanService.swift; sourceTree = "<group>"; };
 		5173E64F1141E7E5C7C45C11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5187C90212132F96611DECF0 /* StreamService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamService.swift; sourceTree = "<group>"; };
+		5317D53DE63022EAB31996CE /* RecordingStorageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingStorageService.swift; sourceTree = "<group>"; };
+		54BF9AF6840C28CF49706D72 /* MediaSourceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaSourceService.swift; sourceTree = "<group>"; };
+		5525E1F09E6051007CD2C095 /* StreamInfoSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamInfoSheet.swift; sourceTree = "<group>"; };
+		5855EC1D90B0A34BB7279CF5 /* StreamSettingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSettingsService.swift; sourceTree = "<group>"; };
 		5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QualitySettingsView.swift; sourceTree = "<group>"; };
 		604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomOverlayEditorView.swift; sourceTree = "<group>"; };
+		67807A9772F9BE5473353B84 /* StreamSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSettingsView.swift; sourceTree = "<group>"; };
 		69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenCaptureService.swift; sourceTree = "<group>"; };
+		6F6FCE7F4AE923203E8ACB73 /* CastIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastIntents.swift; sourceTree = "<group>"; };
 		6FA36FA300161142F909224E /* CastAppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastAppState.swift; sourceTree = "<group>"; };
+		714C037A447537C9664584E0 /* RecordingSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingSettingsView.swift; sourceTree = "<group>"; };
 		730DD9CE2948447011136A01 /* MirrorSettingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MirrorSettingsService.swift; sourceTree = "<group>"; };
 		8E6F0FC5312D9E9382282335 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		901C1C5BA5BBC342FCBE7F1D /* LiveReactionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveReactionsView.swift; sourceTree = "<group>"; };
+		97DAFB9D75131A5B76E58769 /* LiveReactionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveReactionService.swift; sourceTree = "<group>"; };
 		9E69A2798033DEBA444DFA46 /* MenuBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarController.swift; sourceTree = "<group>"; };
 		ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomOverlayService.swift; sourceTree = "<group>"; };
+		B82394E5EC59E52BBD3219F1 /* RecordingService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingService.swift; sourceTree = "<group>"; };
 		C1EC83F841F513C269B2222B /* DeviceScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceScanView.swift; sourceTree = "<group>"; };
+		C4C5C0A6F4487597E007C598 /* StreamingQualityService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamingQualityService.swift; sourceTree = "<group>"; };
 		D5E4B76C7341D245CCF64B4A /* MenuBarPopoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarPopoverView.swift; sourceTree = "<group>"; };
 		D70D51D5EBE0073B678E3416 /* Cast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1ACD4274F88F17E2359BAD5 /* RecordingHistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingHistoryView.swift; sourceTree = "<group>"; };
 		E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MirrorSettingsView.swift; sourceTree = "<group>"; };
 		E4AD0F2C453D4AA560487DB5 /* CastService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastService.swift; sourceTree = "<group>"; };
 		E5B7BB8189DCC3707D412665 /* CastDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastDevice.swift; sourceTree = "<group>"; };
@@ -50,6 +76,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		00EDD6A2C78C52364C2D18DF /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				6F6FCE7F4AE923203E8ACB73 /* CastIntents.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
 		08D34BA1F5E57D2DC01A36EA /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -64,9 +98,16 @@
 				E4AD0F2C453D4AA560487DB5 /* CastService.swift */,
 				ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */,
 				3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */,
+				97DAFB9D75131A5B76E58769 /* LiveReactionService.swift */,
+				54BF9AF6840C28CF49706D72 /* MediaSourceService.swift */,
 				730DD9CE2948447011136A01 /* MirrorSettingsService.swift */,
 				F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */,
+				B82394E5EC59E52BBD3219F1 /* RecordingService.swift */,
+				5317D53DE63022EAB31996CE /* RecordingStorageService.swift */,
 				69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */,
+				C4C5C0A6F4487597E007C598 /* StreamingQualityService.swift */,
+				5187C90212132F96611DECF0 /* StreamService.swift */,
+				5855EC1D90B0A34BB7279CF5 /* StreamSettingsService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -95,8 +136,13 @@
 			children = (
 				604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */,
 				C1EC83F841F513C269B2222B /* DeviceScanView.swift */,
+				901C1C5BA5BBC342FCBE7F1D /* LiveReactionsView.swift */,
 				E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */,
 				5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */,
+				E1ACD4274F88F17E2359BAD5 /* RecordingHistoryView.swift */,
+				714C037A447537C9664584E0 /* RecordingSettingsView.swift */,
+				5525E1F09E6051007CD2C095 /* StreamInfoSheet.swift */,
+				67807A9772F9BE5473353B84 /* StreamSettingsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -121,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				3C8E943DB45B0C898B331911 /* App */,
+				00EDD6A2C78C52364C2D18DF /* Intents */,
 				2603FBE35C384A1D36FB324D /* MenuBar */,
 				08D34BA1F5E57D2DC01A36EA /* Models */,
 				F2634C7F42EED78429774A75 /* Resources */,
@@ -210,18 +257,31 @@
 				E1B3627B916AE6C77D56ED2E /* AppDelegate.swift in Sources */,
 				7C0F37D655EA58617C7E7355 /* CastAppState.swift in Sources */,
 				A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */,
+				513906F6044911E1AE141109 /* CastIntents.swift in Sources */,
 				761C80647B61431E2240B33D /* CastService.swift in Sources */,
 				E0B443C7E6B161232BF227F6 /* CustomOverlayEditorView.swift in Sources */,
 				2956433FD9F91A0B30077AC2 /* CustomOverlayService.swift in Sources */,
 				512BE3182CB4E3FA23B8C523 /* DeviceScanService.swift in Sources */,
 				E5553CDA9DBFD13E5C7F83CC /* DeviceScanView.swift in Sources */,
+				D508FFBA956F8D4B5AE8552A /* LiveReactionService.swift in Sources */,
+				C5AAF270F9D3A471866E8B2C /* LiveReactionsView.swift in Sources */,
+				E089DAA77D79F37D35DAEAA4 /* MediaSourceService.swift in Sources */,
 				C863943EDFF14022A27BB789 /* MenuBarController.swift in Sources */,
 				26AAE986908B16FF391AD74E /* MenuBarPopoverView.swift in Sources */,
 				F10AD1CFDE06B9585482F003 /* MirrorSettingsService.swift in Sources */,
 				6FC9EF3C40B3EA1F4BE00A3C /* MirrorSettingsView.swift in Sources */,
 				097BD7DA76248BF9B2019784 /* QualitySettingsService.swift in Sources */,
 				8EF662176591B3A1D8EEF48A /* QualitySettingsView.swift in Sources */,
+				DF8E9CED92C5577BEAB4C81A /* RecordingHistoryView.swift in Sources */,
+				9A939951F4EC5E21C73E3D77 /* RecordingService.swift in Sources */,
+				C5CCD36FBBA92C3668611887 /* RecordingSettingsView.swift in Sources */,
+				50008D0747B0BBC53DAC720E /* RecordingStorageService.swift in Sources */,
 				CFDD1BC3F421784C9F05085D /* ScreenCaptureService.swift in Sources */,
+				D5883C811E582B00DA28EAE3 /* StreamInfoSheet.swift in Sources */,
+				6F27C4C2AE6389CE144DE5BC /* StreamService.swift in Sources */,
+				A5F6433579AA21E239FEE481 /* StreamSettingsService.swift in Sources */,
+				B901E408068CE8789A4D1B43 /* StreamSettingsView.swift in Sources */,
+				02162763FCDEEC88D1EE863D /* StreamingQualityService.swift in Sources */,
 				5EFFE9987CBB2D4ACCA351A3 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

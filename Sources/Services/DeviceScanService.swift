@@ -103,7 +103,7 @@ final class DeviceScanService: ObservableObject {
         let host: NWEndpoint.Host = "239.255.255.250"
         let port: NWEndpoint.Port = 1900
 
-        guard let connection = NWConnection(host: host, port: port, using: .udp) else { return }
+        let connection = NWConnection(host: host, port: port, using: .udp)
 
         let ssdpSearch = """
         M-SEARCH * HTTP/1.1\r
