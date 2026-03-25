@@ -7,29 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		097BD7DA76248BF9B2019784 /* QualitySettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */; };
 		26AAE986908B16FF391AD74E /* MenuBarPopoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E4B76C7341D245CCF64B4A /* MenuBarPopoverView.swift */; };
+		2956433FD9F91A0B30077AC2 /* CustomOverlayService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */; };
 		3ADA62B60EF0C492F9C3EF01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F65FAE149D829154A41225B6 /* Assets.xcassets */; };
+		512BE3182CB4E3FA23B8C523 /* DeviceScanService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */; };
 		5EFFE9987CBB2D4ACCA351A3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D46EB88D693DFF13986B95 /* main.swift */; };
+		6FC9EF3C40B3EA1F4BE00A3C /* MirrorSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */; };
 		761C80647B61431E2240B33D /* CastService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4AD0F2C453D4AA560487DB5 /* CastService.swift */; };
 		7C0F37D655EA58617C7E7355 /* CastAppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FA36FA300161142F909224E /* CastAppState.swift */; };
+		8EF662176591B3A1D8EEF48A /* QualitySettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */; };
 		A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B7BB8189DCC3707D412665 /* CastDevice.swift */; };
 		C863943EDFF14022A27BB789 /* MenuBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E69A2798033DEBA444DFA46 /* MenuBarController.swift */; };
 		CFDD1BC3F421784C9F05085D /* ScreenCaptureService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */; };
+		E0B443C7E6B161232BF227F6 /* CustomOverlayEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */; };
 		E1B3627B916AE6C77D56ED2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6F0FC5312D9E9382282335 /* AppDelegate.swift */; };
+		E5553CDA9DBFD13E5C7F83CC /* DeviceScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EC83F841F513C269B2222B /* DeviceScanView.swift */; };
+		F10AD1CFDE06B9585482F003 /* MirrorSettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730DD9CE2948447011136A01 /* MirrorSettingsService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		37D46EB88D693DFF13986B95 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceScanService.swift; sourceTree = "<group>"; };
 		5173E64F1141E7E5C7C45C11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QualitySettingsView.swift; sourceTree = "<group>"; };
+		604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomOverlayEditorView.swift; sourceTree = "<group>"; };
 		69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenCaptureService.swift; sourceTree = "<group>"; };
 		6FA36FA300161142F909224E /* CastAppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastAppState.swift; sourceTree = "<group>"; };
+		730DD9CE2948447011136A01 /* MirrorSettingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MirrorSettingsService.swift; sourceTree = "<group>"; };
 		8E6F0FC5312D9E9382282335 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E69A2798033DEBA444DFA46 /* MenuBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarController.swift; sourceTree = "<group>"; };
+		ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomOverlayService.swift; sourceTree = "<group>"; };
+		C1EC83F841F513C269B2222B /* DeviceScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceScanView.swift; sourceTree = "<group>"; };
 		D5E4B76C7341D245CCF64B4A /* MenuBarPopoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarPopoverView.swift; sourceTree = "<group>"; };
 		D70D51D5EBE0073B678E3416 /* Cast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MirrorSettingsView.swift; sourceTree = "<group>"; };
 		E4AD0F2C453D4AA560487DB5 /* CastService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastService.swift; sourceTree = "<group>"; };
 		E5B7BB8189DCC3707D412665 /* CastDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastDevice.swift; sourceTree = "<group>"; };
 		E9FC02DE5AA175490273F363 /* Cast.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cast.entitlements; sourceTree = "<group>"; };
+		F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QualitySettingsService.swift; sourceTree = "<group>"; };
 		F65FAE149D829154A41225B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -46,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				E4AD0F2C453D4AA560487DB5 /* CastService.swift */,
+				ADEED9F463A1BC27EC85A9D5 /* CustomOverlayService.swift */,
+				3B65F4DC2E4B6B18F34E9753 /* DeviceScanService.swift */,
+				730DD9CE2948447011136A01 /* MirrorSettingsService.swift */,
+				F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */,
 				69490F6946EAA6E0B0645709 /* ScreenCaptureService.swift */,
 			);
 			path = Services;
@@ -73,6 +93,10 @@
 		53E098612F1CF9DFE9282B8A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				604BDDAA9DABBCFE7447AA1C /* CustomOverlayEditorView.swift */,
+				C1EC83F841F513C269B2222B /* DeviceScanView.swift */,
+				E23E39D8DF00DD38D1FB5035 /* MirrorSettingsView.swift */,
+				5BE43E60C77118CDFBF2BF3B /* QualitySettingsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,8 +211,16 @@
 				7C0F37D655EA58617C7E7355 /* CastAppState.swift in Sources */,
 				A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */,
 				761C80647B61431E2240B33D /* CastService.swift in Sources */,
+				E0B443C7E6B161232BF227F6 /* CustomOverlayEditorView.swift in Sources */,
+				2956433FD9F91A0B30077AC2 /* CustomOverlayService.swift in Sources */,
+				512BE3182CB4E3FA23B8C523 /* DeviceScanService.swift in Sources */,
+				E5553CDA9DBFD13E5C7F83CC /* DeviceScanView.swift in Sources */,
 				C863943EDFF14022A27BB789 /* MenuBarController.swift in Sources */,
 				26AAE986908B16FF391AD74E /* MenuBarPopoverView.swift in Sources */,
+				F10AD1CFDE06B9585482F003 /* MirrorSettingsService.swift in Sources */,
+				6FC9EF3C40B3EA1F4BE00A3C /* MirrorSettingsView.swift in Sources */,
+				097BD7DA76248BF9B2019784 /* QualitySettingsService.swift in Sources */,
+				8EF662176591B3A1D8EEF48A /* QualitySettingsView.swift in Sources */,
 				CFDD1BC3F421784C9F05085D /* ScreenCaptureService.swift in Sources */,
 				5EFFE9987CBB2D4ACCA351A3 /* main.swift in Sources */,
 			);
