@@ -24,6 +24,7 @@
 		9A939951F4EC5E21C73E3D77 /* RecordingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82394E5EC59E52BBD3219F1 /* RecordingService.swift */; };
 		A5F6433579AA21E239FEE481 /* StreamSettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5855EC1D90B0A34BB7279CF5 /* StreamSettingsService.swift */; };
 		A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B7BB8189DCC3707D412665 /* CastDevice.swift */; };
+		B4F1D41A80DE1EFA0DCE04C3 /* CastR12R15.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55C76E70728412006DCF161 /* CastR12R15.swift */; };
 		B901E408068CE8789A4D1B43 /* StreamSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67807A9772F9BE5473353B84 /* StreamSettingsView.swift */; };
 		C5AAF270F9D3A471866E8B2C /* LiveReactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901C1C5BA5BBC342FCBE7F1D /* LiveReactionsView.swift */; };
 		C5CCD36FBBA92C3668611887 /* RecordingSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714C037A447537C9664584E0 /* RecordingSettingsView.swift */; };
@@ -72,6 +73,7 @@
 		E5B7BB8189DCC3707D412665 /* CastDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastDevice.swift; sourceTree = "<group>"; };
 		E9FC02DE5AA175490273F363 /* Cast.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cast.entitlements; sourceTree = "<group>"; };
 		F3CDB9F92E961D44A6E8C3D0 /* QualitySettingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QualitySettingsService.swift; sourceTree = "<group>"; };
+		F55C76E70728412006DCF161 /* CastR12R15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastR12R15.swift; sourceTree = "<group>"; };
 		F65FAE149D829154A41225B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				E5B7BB8189DCC3707D412665 /* CastDevice.swift */,
+				F55C76E70728412006DCF161 /* CastR12R15.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				7C0F37D655EA58617C7E7355 /* CastAppState.swift in Sources */,
 				A684626DCA7DC2FBE6732576 /* CastDevice.swift in Sources */,
 				513906F6044911E1AE141109 /* CastIntents.swift in Sources */,
+				B4F1D41A80DE1EFA0DCE04C3 /* CastR12R15.swift in Sources */,
 				761C80647B61431E2240B33D /* CastService.swift in Sources */,
 				E0B443C7E6B161232BF227F6 /* CustomOverlayEditorView.swift in Sources */,
 				2956433FD9F91A0B30077AC2 /* CustomOverlayService.swift in Sources */,
