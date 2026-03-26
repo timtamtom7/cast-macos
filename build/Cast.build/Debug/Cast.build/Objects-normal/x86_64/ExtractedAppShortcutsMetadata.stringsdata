@@ -1,0 +1,41 @@
+{
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "values" : [
+          "Start casting in ${applicationName}",
+          "Cast my screen with ${applicationName}"
+        ],
+        "key" : "Start casting in ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 58
+        }
+      },
+      {
+        "values" : [
+          "Stop casting in ${applicationName}",
+          "End cast in ${applicationName}"
+        ],
+        "key" : "Stop casting in ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 58
+        }
+      }
+    ],
+    "Localizable" : [
+      {
+        "key" : "Get cast status"
+      },
+      {
+        "key" : "Start casting to ${deviceName}"
+      },
+      {
+        "key" : "Stop casting"
+      }
+    ]
+  },
+  "source" : "\/Users\/mauriello\/Dev\/cast-macos\/Sources\/Intents\/CastIntents.swift",
+  "version" : 1
+}

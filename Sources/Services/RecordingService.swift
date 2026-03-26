@@ -57,14 +57,15 @@ final class RecordingService: ObservableObject {
     @Published var settings: RecordingSettings = .default
 
     private var timer: Timer?
-    private var startTime: Date?
+    private var accumulatedTime: TimeInterval = 0
+    private var sessionStartTime: Date?
 
     func startRecording() {
         state = .preparing
 
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
             self.state = .recording
-            self.startTime = Date()
+            self.sessionStartTime = Date()
             self.startTimer()
         }
     }
@@ -72,15 +73,25 @@ final class RecordingService: ObservableObject {
     func pauseRecording() {
         state = .paused
         stopTimer()
+        if let start = sessionStartTime {
+            accumulatedTime += Date().timeIntervalSince(start)
+        }
+        sessionStartTime = nil
     }
 
     func resumeRecording() {
         state = .recording
+        sessionStartTime = Date()
         startTimer()
     }
 
     func stopRecording() {
         state = .stopped
+        if let start = sessionStartTime {
+            accumulatedTime += Date().timeIntervalSince(start)
+        }
+        sessionStartTime = nil
+        accumulatedTime = 0
         stopTimer()
     }
 
@@ -96,8 +107,11 @@ final class RecordingService: ObservableObject {
     }
 
     private func updateElapsed() {
-        guard let start = startTime else { return }
-        elapsedTime = Date().timeIntervalSince(start)
+        var total = accumulatedTime
+        if let start = sessionStartTime {
+            total += Date().timeIntervalSince(start)
+        }
+        elapsedTime = total
     }
 
     func formattedElapsed() -> String {

@@ -1,0 +1,30 @@
+{
+  "/Users/mauriello/Dev/cast-macos/Sources/Models/CastR12R15.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastR12R15.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastR12R15.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastR12R15.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastR12R15.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastR12R15.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/CastService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/CustomOverlayService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/CustomOverlayEditorView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayEditorView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayEditorView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayEditorView.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayEditorView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CustomOverlayEditorView.swiftdeps"
+  }
+}

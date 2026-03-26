@@ -1,0 +1,30 @@
+{
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/DeviceScanService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/LiveReactionService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/DeviceScanView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanView.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/DeviceScanView.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/LiveReactionsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionsView.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/LiveReactionsView.swiftdeps"
+  }
+}

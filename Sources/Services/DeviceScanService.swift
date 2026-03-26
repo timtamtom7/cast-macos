@@ -8,6 +8,7 @@ final class DeviceScanService: ObservableObject {
     @Published var isScanning = false
 
     private var browser: NWBrowser?
+    private var airplayBrowser: NWBrowser?
     private var listeners: [NWListener] = []
 
     struct DiscoveredDevice: Identifiable, Hashable {
@@ -51,6 +52,8 @@ final class DeviceScanService: ObservableObject {
     func stopScanning() {
         browser?.cancel()
         browser = nil
+        airplayBrowser?.cancel()
+        airplayBrowser = nil
         isScanning = false
     }
 
@@ -81,9 +84,9 @@ final class DeviceScanService: ObservableObject {
         let parameters = NWParameters()
         parameters.includePeerToPeer = true
 
-        let browser2 = NWBrowser(for: .bonjour(type: "_airplay._tcp", domain: nil), using: parameters)
+        airplayBrowser = NWBrowser(for: .bonjour(type: "_airplay._tcp", domain: nil), using: parameters)
 
-        browser2.browseResultsChangedHandler = { [weak self] results, _ in
+        airplayBrowser?.browseResultsChangedHandler = { [weak self] results, _ in
             for result in results {
                 if case .service(let name, _, _, _) = result.endpoint {
                     self?.addDevice(name: name, type: .airplay, address: result.endpoint.debugDescription)
@@ -91,7 +94,7 @@ final class DeviceScanService: ObservableObject {
             }
         }
 
-        browser2.start(queue: .main)
+        airplayBrowser?.start(queue: .main)
     }
 
     private func scanDLNADevices() {

@@ -45,12 +45,16 @@ final class StreamService: ObservableObject {
     func stopStream() {
         state = .ended
         reconnectTimer?.invalidate()
+        reconnectTimer = nil
     }
 
     func reconnect() {
         state = .reconnecting
-        DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
-            self.state = .live
+        reconnectTimer?.invalidate()
+        reconnectTimer = nil
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3) { [weak self] in
+            self?.state = .live
+            self?.startStatsPolling()
         }
     }
 

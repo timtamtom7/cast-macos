@@ -1,0 +1,349 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/Cast-primary.dia",
+    "emit-module-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/Cast-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/Cast-primary-emit-module.dia",
+    "pch" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/Cast-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/Cast-primary.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/App/AppDelegate.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/App/CastAppState.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastAppState~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/App/main.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/main~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Intents/CastIntents.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastIntents~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/MenuBar/MenuBarController.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarController~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/MenuBar/MenuBarPopoverView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MenuBarPopoverView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Models/CastDevice.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastDevice~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Models/CastR12R15.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastR12R15~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Models/SubscriptionTier.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionTier~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/CastService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CastService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/CustomOverlayService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/DeviceScanService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/LiveReactionService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/MediaSourceService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MediaSourceService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/MirrorSettingsService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/PrivacyService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/PrivacyService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/QualitySettingsService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/RecordingService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/RecordingStorageService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingStorageService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/ScreenCaptureService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/ScreenCaptureService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/StreamService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/StreamSettingsService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/StreamingQualityService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamingQualityService~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/SubscriptionManager.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/SubscriptionManager~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/CustomOverlayEditorView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/CustomOverlayEditorView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/DeviceScanView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/DeviceScanView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/LiveReactionsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/LiveReactionsView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/MirrorSettingsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/MirrorSettingsView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/QualitySettingsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/QualitySettingsView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/RecordingHistoryView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingHistoryView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/RecordingSettingsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/RecordingSettingsView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/StreamInfoSheet.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamInfoSheet~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/StreamSettingsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/StreamSettingsView~partial.swiftmodule"
+  },
+  "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

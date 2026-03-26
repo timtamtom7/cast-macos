@@ -1,0 +1,30 @@
+{
+  "/Users/mauriello/Dev/cast-macos/Sources/App/AppDelegate.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/AppDelegate.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/App/CastAppState.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastAppState.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastAppState.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastAppState.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastAppState.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastAppState.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Intents/CastIntents.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastIntents.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastIntents.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastIntents.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastIntents.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastIntents.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Models/CastDevice.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastDevice.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastDevice.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastDevice.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastDevice.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/CastDevice.swiftdeps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/PrivacyService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/PrivacyService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/PrivacyService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/PrivacyService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/PrivacyService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/PrivacyService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Services/QualitySettingsService.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/QualitySettingsService.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/QualitySettingsService.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/QualitySettingsService.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/QualitySettingsService.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/QualitySettingsService.swiftdeps"
+  },
+  "/Users/mauriello/Dev/cast-macos/Sources/Views/MirrorSettingsView.swift" : {
+    "const-values" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/MirrorSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/MirrorSettingsView.d",
+    "diagnostics" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/MirrorSettingsView.dia",
+    "object" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/MirrorSettingsView.o",
+    "swift-dependencies" : "/Users/mauriello/Dev/cast-macos/build/Cast.build/Debug/Cast.build/Objects-normal/arm64/MirrorSettingsView.swiftdeps"
+  }
+}
